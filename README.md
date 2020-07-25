@@ -1,11 +1,14 @@
 ### Hey 👋
 
+--> [My Site][My Site] (Under Construction)
+
 I'm Joseph Lai and I'm passionate about computer science. I love the field and am still not sure what area or language(s) I'd like to "specialize" in, so I'm currently in the process of learning a bit of everything.
 
 - 🔭 I’m currently working on [URS][URS], adding new features that the community has suggested and researching ways to enhance its features.
-- 🌱 I’m currently learning Rust, Go, and ReactJS.
+- 🌱 I’m currently learning a bit of everything, primarily focusing on Rust and ReactJS.
 - 👯 I’m looking to collaborate on any of my projects, especially URS!
 - 💬 Ask me about anything [here][Issues].
+- ⚡ Fun fact: I can solve a Rubik's Cube in less than 30 seconds 🥴
 - 📫 How to reach me:
   - For URS-related questions, please send me an email at [urs_project@protonmail.com][URS Project].
   - Any other questions can be sent to [jlai24142@gmail.com][Gmail].
@@ -156,29 +159,12 @@ ____
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=The-Struggle&theme=dark" />
 </a>
 
-<!--
-**JosephLai241/JosephLai241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- PROJECT LINKS -->
 [URS]: https://github.com/JosephLai241/URS
+[My Site]: https://josephlai241.github.io/
 
 <!-- REPO ISSUES LINK -->
 [Issues]: https://github.com/JosephLai241/JosephLai241/issues
-
-<!-- PROGRAMMING LANGUAGES -->
-[Python]: something.com
 
 <!-- CONTACT LINKS -->
 [Gmail]: mailto:jlai24142@gmail.com
