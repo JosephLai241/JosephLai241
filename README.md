@@ -4,7 +4,7 @@
 
 I'm Joseph Lai and I'm passionate about computer science. I love the field and am still not sure what area or language(s) I'd like to "specialize" in, so I'm currently in the process of learning a bit of everything.
 
-- 🔭 I’m currently working on [URS][URS], adding new features that the community has suggested and researching ways to enhance its features.
+- 🔭 I’m currently working on [URS][URS] and my personal blog. I intend to deploy my blog using React for the front-end, Actix for the backend, and most likely MongoDB for the database.
 - 🌱 I’m currently learning a bit of everything, primarily focusing on Rust and ReactJS.
 - 👯 I’m looking to collaborate on any of my projects, especially URS!
 - 💬 Ask me about anything [here][Issues].
