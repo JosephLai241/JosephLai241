@@ -98,6 +98,16 @@ I'm Joseph Lai and I'm passionate about computer science. I love the field and a
     src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
 </a>
 
+**Databases**
+
+<a href="https://www.mongodb.com/">
+  <img
+    alt="MongoDB"
+    height="80"
+    width="80"
+    src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
+</a>
+
 **Continuous Integration**
 
 <a href="https://travis-ci.org/">
