@@ -1,10 +1,10 @@
 ### Hey 👋
 
---> [My Site][My Site] (Under Construction)
+---> [My Site][My Site] (Under Construction)
 
 I'm Joseph Lai and I'm passionate about computer science. I love the field and am still not sure what area or language(s) I'd like to "specialize" in, so I'm currently in the process of learning a bit of everything.
 
-- 🔭 I’m currently working on [URS][URS] and my personal blog. I intend to deploy my blog using React for the front-end, Actix for the backend, and most likely MongoDB for the database.
+- 🔭 I’m currently working on my personal blog. I intend to create it using React for the front-end, Flask for the API, and MongoDB for the database. I'm also maintaining my open source intelligence project [URS][URS].
 - 🌱 I’m currently learning a bit of everything, primarily focusing on Rust and ReactJS.
 - 👯 I’m looking to collaborate on any of my projects, especially URS!
 - 💬 Ask me about anything [here][Issues].
