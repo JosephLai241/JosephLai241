@@ -154,12 +154,12 @@ ____
 <a>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLai241&theme=dark" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLai241&theme=dark&layout=compact&count_private=true" />
 </a>
 <a>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=JosephLai241&hide=contribs&show_icons=true&theme=dark" />
+    src="https://github-readme-stats.vercel.app/api?username=JosephLai241&hide=contribs&show_icons=true&theme=dark&count_private=true" />
 </a>
 
 <a href="https://www.github.com/JosephLai241/URS">
