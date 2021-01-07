@@ -20,21 +20,28 @@ I'm Joseph Lai and I'm passionate about computer science. I love the field and a
     alt="Python"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
 </a>
 <a href="https://www.rust-lang.org/">
   <img
     alt="Rust"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" />
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" />
+</a>
+<a href="https://www.javascript.com/">
+  <img
+    alt="JavaScript"
+    height="80"
+    width="80"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 </a>
 <a href="https://www.java.com/en/">
   <img
     alt="Java"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" />
+    src="https://www.clipartkey.com/mpngs/m/259-2594332_java-logo.png" />
 </a>
 <a href="https://dart.dev/">
   <img
@@ -43,19 +50,12 @@ I'm Joseph Lai and I'm passionate about computer science. I love the field and a
     width="80"
     src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" />
 </a>
-<a href="https://www.javascript.com/">
-  <img
-    alt="JavaScript"
-    height="80"
-    width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
-</a>
 <a href="https://golang.org/">
   <img
     alt="Go"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" />
+    src="https://s.clipartkey.com/mpngs/s/123-1233084_transparent-gopher-clipart-golang-gopher-png.png" />
 </a>
 
 **Frameworks**
@@ -65,7 +65,7 @@ I'm Joseph Lai and I'm passionate about computer science. I love the field and a
     alt="React"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" />
+    src="https://img.stackshare.io/service/1020/OYIaJ1KK.png" />
 </a>
 <a href="https://flutter.dev/">
   <img
@@ -93,7 +93,7 @@ I'm Joseph Lai and I'm passionate about computer science. I love the field and a
     alt="Angular"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
+    src="https://angular.io/assets/images/logos/angular/angular.png" />
 </a>
 
 **Databases**
@@ -103,7 +103,7 @@ I'm Joseph Lai and I'm passionate about computer science. I love the field and a
     alt="MongoDB"
     height="80"
     width="80"
-    src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
+    src="https://g.foolcdn.com/art/companylogos/square/mdb.png" />
 </a>
 
 **Continuous Integration**
