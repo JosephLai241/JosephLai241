@@ -1,10 +1,8 @@
 ### Hey 👋
 
----> [My Site][My Site] (Under Construction)
-
 I'm Joseph Lai and I'm passionate about computer science. I love the field and am still not sure what area or language(s) I'd like to "specialize" in, so I'm currently in the process of learning a bit of everything.
 
-- 🔭 I’m currently working on my personal blog. I intend to create it using React for the front-end, Flask for the API, and MongoDB for the database. I'm also maintaining my open source intelligence project [URS][URS].
+- 🔭 I've finally finished my personal blog created with ReactJS, Flask, and MongoDB. I'm going to continue maintaining it throughout the years. I'm also maintaining my open source intelligence project [URS][URS].
 - 🌱 I’m currently learning a bit of everything, primarily focusing on Rust and ReactJS.
 - 👯 I’m looking to collaborate on any of my projects, especially URS!
 - 💬 Ask me about anything [here][Issues].
@@ -130,6 +128,26 @@ I'm Joseph Lai and I'm passionate about computer science. I love the field and a
     height="80"
     width="80"
     src="https://cdn.freebiesupply.com/logos/large/2x/codecov-logo-png-transparent.png" />
+</a>
+
+**Web Server**
+
+<a href="https://www.nginx.com/">
+  <img 
+    alt="Nginx"
+    height="80"
+    width="80"
+    src="https://img.icons8.com/color/452/nginx.png" />
+</a>
+
+**VPS**
+
+<a href="https://www.digitalocean.com/">
+  <img 
+    alt="Digital Ocean"
+    height="80"
+    width="80"
+    src="https://media.glassdoor.com/sqll/823482/digitalocean-squarelogo-1531162570004.png" />
 </a>
   
 **Linux**
