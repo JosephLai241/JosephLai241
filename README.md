@@ -171,11 +171,13 @@ I learn a new language best by creating something with it. All of these projects
 
 ### `The Struggle`
 
-<div style="padding-bottom: 10px; padding-top: 5px;">
+<div style="padding-bottom: 5px; padding-top: 5px;">
 	<a href="https://github.com/JosephLai241/The-Struggle">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=The-Struggle&theme=tokyonight" />
 	</a>
 </div>
+
+---
 
 `The-Struggle` is a command-line tool written in Rust that helps you keep track of your job applications. It is essentially a tool that makes modifying a spreadsheet of job applications easier.
 
@@ -198,11 +200,13 @@ Additionally, there is an insight tool which will analyze application statistics
 
 ## `shift`
 
-<div style="padding-bottom: 10px; padding-top: 5px;">
+<div style="padding-bottom: 5px; padding-top: 5px;">
 	<a href="https://github.com/JosephLai241/shift">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=shift&theme=tokyonight" />
 	</a>
 </div>
+
+---
 
 `shift` is a command-line tool written in Go that helps contractors/remote workers keep track of their own working hours. This may also be used to keep track of time doing anything - I personally also use this to keep track of how much time I spend working on particular projects. This project is based on my friend Luke Schenk's original Python program [`clck`][clck].
 
