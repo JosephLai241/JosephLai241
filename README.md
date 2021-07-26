@@ -2,7 +2,7 @@
 
 My name is Joseph and I'm a self-taught software developer from Michigan who is passionate about computer science. I love the field and am still not sure what my niche is, so I'm currently in the process of learning a bit of everything.
 
-This GitHub portfolio `README` serves as a short resume of sorts and also a showcase for my accomplishments thus far.
+This GitHub portfolio `README` serves as a resume of sorts and also a showcase for my accomplishments thus far.
 
 In the process of assessing areas of interest, I have created:
 
@@ -48,7 +48,7 @@ This is a list of areas that I'm currently skilled in.
 
 # Ways to Contact Me
 
-> *Note*: These badges are clickable!
+> ***Note***: These badges are clickable!
 
 ## General
 
@@ -75,9 +75,12 @@ You can also directly ask me about anything in this `README`'s [Issues tab][Issu
 	+ [Personal Blog](#personal-blog)
 		* [The Stack](#the-stack)
 		* [What Did I Learn From This?](#what-did-i-learn-from-this)
+	+ [Additional Projects](#additional-projects)
 * [What I'm Currently Working On](#what-im-currently-working-on)
 * [Miscellaneous Information](#miscellaneous-information)
 * [Additional Skills/Interests](#additional-skillsinterests)
+	+ [Languages](#languages-1)
+	+ [Frameworks](#frameworks-1)
 * [GitHub Statistics](#github-statistics)
 
 # Accomplishments
@@ -99,6 +102,8 @@ URS is an open source intelligence project written in Python. It's a command-lin
 Its primary scraping tools target submissions within Subreddits, Redditor profiles, and submission comments; however URS also offers the ability to stream submissions or comments created within a Subreddit or by a Redditor in real time and export that data to JSON (or not, depending on the user's preferences).
 
 In addition to scraping tools, URS also includes analytical tools such as the word frequencies and wordcloud generators that may be used after scraping.
+
+It allows users to export scrape data to JSON or CSV, and offers a variety of image formats when exporting wordclouds.
 
 ### How Do People Use It?
 
@@ -147,6 +152,49 @@ This project has been a tremendous learning experience for me. During the proces
 * How to serve all areas of the stack on a VPS
 	+ Serving the Flask API via [Gunicorn][Gunicorn]
 	+ Serving the React application via [NGINX][NGINX], which also acts as a reverse-proxy for the Flask API
+
+## Additional Projects
+
+I learn a new language best by creating something with it. All of these projects are the result of my learning Python, Rust, or Go. I created these programs so that I could use them myself; I use these tools very frequently, if not daily. I put them on GitHub because I think others may benefit from them as well. I've listed some of these projects in the sections below.
+
+### `The Struggle`
+
+<div style="padding-bottom: 5px; padding-top: 5px;">
+	<a href="https://github.com/JosephLai241/The-Struggle">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=The-Struggle&theme=dark" />
+	</a>
+</div>
+
+`The-Struggle` is a command-line tool written in Rust that helps you keep track of your job applications. It is essentially a tool that makes modifying a spreadsheet of job applications easier.
+
+It performs the following CRUD operations on a locally-stored spreadsheet:
+
+* Add a new entry
+* Update an existing entry
+* Delete an existing entry
+* List all entries
+
+Additionally, there is an insight tool which will analyze application statistics such as:
+
+* The number of applications:
+	+ That are pending a response
+	+ That are currently underway
+	+ That you have received an offer for
+	+ That you have been hired for
+	+ That have rejected you
+* The ratio of each status to the overall number of tracked job applications.
+
+## `shift`
+
+<div style="padding-bottom: 5px; padding-top: 5px;">
+	<a href="https://github.com/JosephLai241/shift">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=shift&theme=dark" />
+	</a>
+</div>
+
+`shift` is a command-line tool written in Go that helps contractors/remote workers keep track of their own working hours. This may also be used to keep track of time doing anything - I personally also use this to keep track of how much time I spend working on particular projects. This project is based on my friend Luke Schenk's original Python program [`clck`][clck].
+
+This program is very similar to `The-Struggle`, except it allows users to configure whether to save shift data to a timesheet or a SQLite instance in the current working directory. Users may also check the current status of their shift (how much time has elapsed since clocking in).
 
 # What I'm Currently Working On
 
@@ -233,3 +281,6 @@ I'm also in the process of creating another full-stack web application - my port
 [Gunicorn]: https://gunicorn.org/
 [NGINX]: https://www.nginx.com/
 <!--  -->
+
+<!-- LUKE'S LINKS -->
+[clck]: https://github.com/LukeDSchenk/clck
