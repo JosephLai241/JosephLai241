@@ -167,7 +167,7 @@ This project has been a tremendous learning experience for me. During the proces
 
 ## Additional Projects
 
-I learn a new language best by creating something with it. All of these projects are the result of my learning Python, Rust, or Go. I created these programs so that I could use them myself; I use these tools very frequently, if not daily. I put them on GitHub because I think others may benefit from them as well. I've listed some of these projects in the sections below.
+I learn a new language best by creating something with it. All of these projects are the result of my learning Python, Rust, or Go. I created these programs so that I could use them myself; I use these tools very frequently, if not daily. I put them on GitHub because I think others may benefit from them as well.
 
 ### `The Struggle`
 
