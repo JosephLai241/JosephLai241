@@ -171,7 +171,7 @@ I learn a new language best by creating something with it. All of these projects
 
 ### `The Struggle`
 
-<div style="padding-bottom: 5px; padding-top: 5px;">
+<div style="padding-bottom: 10px; padding-top: 5px;">
 	<a href="https://github.com/JosephLai241/The-Struggle">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=The-Struggle&theme=tokyonight" />
 	</a>
@@ -198,7 +198,7 @@ Additionally, there is an insight tool which will analyze application statistics
 
 ## `shift`
 
-<div style="padding-bottom: 5px; padding-top: 5px;">
+<div style="padding-bottom: 10px; padding-top: 5px;">
 	<a href="https://github.com/JosephLai241/shift">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=shift&theme=tokyonight" />
 	</a>
