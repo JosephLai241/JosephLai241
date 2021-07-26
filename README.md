@@ -84,8 +84,8 @@ This is a list of areas that I'm currently skilled in.
 
 ## General
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][Gmail]
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][Gmail Link]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn Link]
 
 ## For Anything Related to URS
 
@@ -210,7 +210,7 @@ This program is very similar to `The-Struggle`, except it allows users to config
 
 # What I'm Currently Working On
 
-URS is a project that I'm constantly maintaining. Otherwise I'm focused on refining my skills with Rust, Go, and React.
+URS is a project that I'm constantly maintaining. Otherwise I'm focused on refining my skills with Python, Rust, Go, and React.
 
 I'm also in the process of creating another full-stack web application - my portfolio site.
 
@@ -265,8 +265,8 @@ I'm also in the process of creating another full-stack web application - my port
 </table>
 
 <!-- SOCIAL LINKS -->
-[Gmail]: mailto:jlai24142@gmail.com
-[LinkedIn]: linkedin.com/in/joseph-lai-86390a137
+[Gmail Link]: mailto:jlai24142@gmail.com
+[LinkedIn Link]: https://linkedin.com/in/joseph-lai-86390a137
 [URS Project]: mailto:urs_project@protonmail.com
 [Issues]: https://github.com/JosephLai241/JosephLai241/issues
 <!--  -->
