@@ -1,47 +1,79 @@
 # Hey 👋
 
-My name is Joseph and I'm a self-taught software developer from Michigan who is passionate about computer science. I love the field and am still not sure what my niche is, so I'm currently in the process of learning a bit of everything.
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-This GitHub portfolio `README` serves as a resume of sorts and also a showcase for my accomplishments thus far.
+My name is Joseph and I'm a self-taught software developer from Michigan who is passionate about computer science. I love the field and am still not sure what my niche is, so I'm currently in the process of learning a bit of everything. 
 
-In the process of assessing areas of interest, I have created:
+Although I haven't decided on a niche, I've realized I love developing in Python and Rust and plan on implementing future projects in either (or both) languages!
 
-* A successful OSINT Reddit-scraping command-line tool
-* A full-stack private blog
+This GitHub portfolio `README` is a resume of sorts, as well as a showcase for my accomplishments thus far.
 
-See the [Accomplishments](#accomplishments) section for more information on each topic.
+**I'm actively searching for a job.** If you're an employer, please keep me in mind during your developer search and reach out if you have an open opportunity that you think is suitable for my skill set! See the [Ways to Contact Me](#ways-to-contact-me) section for additional details.
 
-## Skills
+# Table of Contents
+
+* [Skills](#skills)
+	+ [Languages](#languages)
+	+ [Frameworks](#frameworks)
+	+ [Databases](#databases)
+	+ [Continuous Integration](#continuous-integration)
+	+ [VPS](#vps)
+	+ [Linux](#linux)
+* [Ways to Contact Me](#ways-to-contact-me)
+	* [General](#general)
+	* [For Anything Related to URS](#for-anything-related-to-urs)
+	* [On GitHub](#on-github)
+* [Accomplishments](#accomplishments)
+	+ [URS (Universal Reddit Scraper)](#urs-universal-reddit-scraper)
+		* [What Is URS?](#what-is-urs)
+		* [What Does It Do?](#what-does-it-do)
+		* [How Do People Use It?](#how-do-people-use-it)
+		* [Future Improvements](#future-improvements)
+		* [Contact](#contact)
+	+ [Personal Blog](#personal-blog)
+		* [The Stack](#the-stack)
+		* [What Did I Learn From This?](#what-did-i-learn-from-this)
+	+ [Additional Projects](#additional-projects)
+* [What I'm Currently Working On](#what-im-currently-working-on)
+* [Miscellaneous Information](#miscellaneous-information)
+* [Additional Skills/Interests](#additional-skillsinterests)
+	+ [Languages](#languages-1)
+	+ [Frameworks](#frameworks-1)
+	+ [Continuous Integration](#continuous-integration-1)
+* [GitHub Statistics](#github-statistics)
+
+# Skills
 
 This is a list of areas that I'm currently skilled in.
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Frameworks
+## Frameworks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### Databases
+## Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Continuous Integration
+## Continuous Integration
 
 ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
-### VPS
+## VPS
 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-### Linux
+## Linux
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -59,29 +91,9 @@ This is a list of areas that I'm currently skilled in.
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)][URS Project]
 
+## On GitHub
+
 You can also directly ask me about anything in this `README`'s [Issues tab][Issues].
-
-**I'm actively searching for a job.** Please keep me in mind during your developer search, and please reach out if you have an open opportunity that you think is suitable for my skill set!
-
-# Table of Contents
-
-* [Accomplishments](#accomplishments)
-	+ [URS (Universal Reddit Scraper)](#urs-universal-reddit-scraper)
-		* [What Is URS?](#what-is-urs)
-		* [What Does It Do?](#what-does-it-do)
-		* [How Do People Use It?](#how-do-people-use-it)
-		* [Future Improvements](#future-improvements)
-		* [Contact](#contact)
-	+ [Personal Blog](#personal-blog)
-		* [The Stack](#the-stack)
-		* [What Did I Learn From This?](#what-did-i-learn-from-this)
-	+ [Additional Projects](#additional-projects)
-* [What I'm Currently Working On](#what-im-currently-working-on)
-* [Miscellaneous Information](#miscellaneous-information)
-* [Additional Skills/Interests](#additional-skillsinterests)
-	+ [Languages](#languages-1)
-	+ [Frameworks](#frameworks-1)
-* [GitHub Statistics](#github-statistics)
 
 # Accomplishments
 
@@ -89,7 +101,7 @@ You can also directly ask me about anything in this `README`'s [Issues tab][Issu
 
 <div style="padding-bottom: 5px; padding-top: 5px;">
 	<a href="https://www.github.com/JosephLai241/URS">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=URS&theme=dark" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=URS&theme=tokyonight" />
 	</a>
 </div>
 
@@ -161,7 +173,7 @@ I learn a new language best by creating something with it. All of these projects
 
 <div style="padding-bottom: 5px; padding-top: 5px;">
 	<a href="https://github.com/JosephLai241/The-Struggle">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=The-Struggle&theme=dark" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=The-Struggle&theme=tokyonight" />
 	</a>
 </div>
 
@@ -188,7 +200,7 @@ Additionally, there is an insight tool which will analyze application statistics
 
 <div style="padding-bottom: 5px; padding-top: 5px;">
 	<a href="https://github.com/JosephLai241/shift">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=shift&theme=dark" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=shift&theme=tokyonight" />
 	</a>
 </div>
 
@@ -227,6 +239,10 @@ I'm also in the process of creating another full-stack web application - my port
     src="https://avatars0.githubusercontent.com/u/32776943?s=400&v=4" />
 </a>
 
+## Continuous Integration
+
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
 # GitHub Statistics
 
 <table style="width:100%;">
@@ -235,14 +251,14 @@ I'm also in the process of creating another full-stack web application - my port
 			<a>
 				<img 
 					align="center" 
-					src="https://github-readme-stats.vercel.app/api?username=JosephLai241&hide=contribs&show_icons=true&theme=dark&count_private=true" />
+					src="https://github-readme-stats.vercel.app/api?username=JosephLai241&hide=contribs&show_icons=true&theme=tokyonight&count_private=true" />
 			</a>
 		</td>
 		<td>
 			<a>
 				<img 
 					align="center" 
-					src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLai241&theme=dark&layout=compact&count_private=true" />
+					src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLai241&theme=tokyonight&layout=compact&count_private=true" />
 			</a>
 		</td>
 	</tr>
