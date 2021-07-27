@@ -18,6 +18,7 @@ This GitHub portfolio `README` is a resume of sorts, as well as a showcase for m
 	+ [Frameworks](#frameworks)
 	+ [Databases](#databases)
 	+ [Continuous Integration](#continuous-integration)
+	+ [Testing Tools](#testing-tools)
 	+ [VPS](#vps)
 	+ [Linux](#linux)
 * [Ways to Contact Me](#ways-to-contact-me)
@@ -69,6 +70,10 @@ This is a list of areas that I'm currently skilled in.
 ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
+
+## Testing Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
 
 ## VPS
 
