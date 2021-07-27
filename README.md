@@ -147,11 +147,7 @@ Also feel free to email me if it helped you achieve a goal. I'd love to learn mo
 |--------------|---------|--------------|----------------|---------|
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) |
 
-I created a private blog implementing [React][ReactJS] for the frontend, [Flask][Flask] as the API, and [MongoDB][MongoDB] as the database which holds various datasets such as blog posts and visitor information. 
-
-**React**
-
-Significant libraries used on the frontend are [Bootstrap][Bootstrap] for styling and [Axios][Axios] for sending HTTP requests to the Flask API.
+I created a private blog implementing [React][ReactJS] for the frontend (plus [Bootstrap][Bootstrap] for styling and [Axios][Axios] for sending HTTP requests to the API), [Flask][Flask] as the API, and [MongoDB][MongoDB] as the database which holds various datasets such as blog posts and visitor information. 
 
 ### What Did I Learn From This?
 
