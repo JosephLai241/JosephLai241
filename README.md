@@ -5,7 +5,7 @@
 
 My name is Joseph and I'm a self-taught software developer from Michigan who is passionate about computer science. I love the field and am still not sure what my niche is, so I'm currently in the process of learning a bit of everything. 
 
-Although I haven't decided on a niche, I've realized I love developing in Python and Rust and plan on implementing future projects in either (or both) languages!
+Although I haven't decided on a niche, I've realized I love developing in Python and Rust, and plan on implementing future projects in either (or both) languages!
 
 This GitHub portfolio `README` is a resume of sorts, as well as a showcase for my accomplishments thus far.
 
@@ -62,6 +62,7 @@ This is a list of areas that I'm currently skilled in.
 ## Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Continuous Integration
 
@@ -129,13 +130,13 @@ This project has been featured in various places throughout the web, including:
 
 ### Future Improvements
 
-While I believe the suite of tools that URS has to offer is fairly refined, it's still a work in progress. I've already planned some enhancements for it (located in the [Future kanban][URS Future Kanban] within the repository), but I'm always looking to hear more about how it is used with the intention of adding additional enhancements that I've not considered.
+While I believe the current suite of tools is fairly refined, the project is still a work in progress. I've already planned some enhancements for it (located in the [Future kanban][URS Future Kanban] within the repository), but I'm always looking to hear more about how it is used with the intention of adding additional enhancements that I've not considered.
 
 ### Contact
 
 If you have any questions/comments/concerns regarding URS, please send me an email by clicking on the email badge below.
 
-Also feel free to email me if it helped you achieve a goal. I'd love to learn more about how it's used!
+Also feel free to email me by clicking on the badge below if it helped you achieve a goal. I'd love to learn more about how it's used!
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)][URS Project]
 
@@ -177,7 +178,7 @@ I learn a new language best by creating something with it. All of these projects
 
 ---
 
-`The-Struggle` is a command-line tool written in Rust that helps you keep track of your job applications. It is essentially a tool that makes modifying a spreadsheet of job applications easier.
+`The-Struggle` is a command-line tool written in Rust that helps you keep track of your job applications. It is essentially a tool that makes modifying a spreadsheet easier.
 
 It performs the following CRUD operations on a locally-stored spreadsheet:
 
@@ -208,11 +209,14 @@ Additionally, there is an insight tool which will analyze application statistics
 
 `shift` is a command-line tool written in Go that helps contractors/remote workers keep track of their own working hours. This may also be used to keep track of time doing anything - I personally also use this to keep track of how much time I spend working on particular projects. This project is based on my friend Luke Schenk's original Python program [`clck`][clck].
 
-This program is very similar to `The-Struggle`, except it allows users to configure whether to save shift data to a timesheet or a SQLite instance in the current working directory. Users may also check the current status of their shift (how much time has elapsed since clocking in).
+This program is very similar to `The-Struggle` except for a few differences:
+
+* It allows users to configure whether to save shift data to a timesheet or a SQLite instance
+* Users may check the current status of their shift (how much time has elapsed since clocking in).
 
 # What I'm Currently Working On
 
-URS is a project that I'm constantly maintaining. Otherwise I'm focused on refining my skills with Python, Rust, Go, and React.
+URS is a project that I'm constantly maintaining. Otherwise I'm focused on refining my skills with Python, Rust, Go, and/or React.
 
 I'm also in the process of creating another full-stack web application - my portfolio site.
 
