@@ -161,9 +161,11 @@ This project has been a tremendous learning experience for me. During the proces
 * How an API works, how to connect a frontend to a database through an API, and how to expose endpoints with distinct behaviors
 	+ How to test API endpoints with [Postman][Postman]
 * How to use a production database and apply CRUD operations via the API
+* How to secure a VPS - `ufw`, SSH configuration, etc.
 * How to serve all areas of the stack on a VPS
 	+ Serving the Flask API via [Gunicorn][Gunicorn]
 	+ Serving the React application via [NGINX][NGINX], which also acts as a reverse-proxy for the Flask API
+	+ Spin up a database instance
 
 ## Additional Projects
 
