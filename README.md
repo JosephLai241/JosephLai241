@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 My name is Joseph and I'm a self-taught software developer from Michigan who is passionate about computer science. I love the field and am still not sure what my niche is, so I'm currently in the process of learning a bit of everything. 
 
