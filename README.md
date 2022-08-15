@@ -4,13 +4,9 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-My name is Joseph and I'm a self-taught software developer from Michigan who is passionate about computer science. I love the field and am still not sure what my niche is, so I'm currently in the process of learning a bit of everything. 
+My name is Joseph and I'm a self-taught software engineer from Michigan who is passionate about computer science. I am currently a software engineer at [Bluestone Analytics, a wholly-owned subsidiary of CACI International, Inc][Bluestone Analytics].
 
-Although I haven't decided on a niche, I've realized I love developing in Python and Rust, and plan on implementing future projects in either (or both) languages!
-
-This GitHub portfolio `README` is a resume of sorts, as well as a showcase for my accomplishments thus far.
-
-**I'm actively searching for a job.** If you're an employer, please keep me in mind during your developer search and reach out if you have an open opportunity that you think is suitable for my skill set! See the [Ways to Contact Me](#ways-to-contact-me) section for additional details.
+I love developing in Rust and Python, and plan on implementing future projects in either (or both) languages!
 
 # Table of Contents
 
@@ -35,14 +31,7 @@ This GitHub portfolio `README` is a resume of sorts, as well as a showcase for m
 		* [Contact](#contact)
 	+ [Personal Blog](#personal-blog)
 		* [The Stack](#the-stack)
-		* [What Did I Learn From This?](#what-did-i-learn-from-this)
-	+ [Additional Projects](#additional-projects)
 * [What I'm Currently Working On](#what-im-currently-working-on)
-* [Miscellaneous Information](#miscellaneous-information)
-* [Additional Skills/Interests](#additional-skillsinterests)
-	+ [Languages](#languages-1)
-	+ [Frameworks](#frameworks-1)
-	+ [Continuous Integration](#continuous-integration-1)
 * [GitHub Statistics](#github-statistics)
 
 # Skills
@@ -60,6 +49,15 @@ This is a list of areas that I'm currently skilled in.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+<a href="https://actix.rs/">
+  <img
+    alt="Actix Web"
+    height="80"
+    width="80"
+    src="https://avatars0.githubusercontent.com/u/32776943?s=400&v=4" />
+</a>
+
 
 ## Databases
 
@@ -156,104 +154,11 @@ Also feel free to email me by clicking on the badge below if it helped you achie
 
 I created a private blog implementing [React][ReactJS] for the frontend (plus [Bootstrap][Bootstrap] for styling and [Axios][Axios] for sending HTTP requests to the API), [Flask][Flask] as the API, and [MongoDB][MongoDB] as the database which holds various datasets such as blog posts and visitor information. 
 
-### What Did I Learn From This?
-
-This project has been a tremendous learning experience for me. During the process, I learned:
-
-* How to create a responsive frontend complete with user authentication, authorization, and dynamic rendering
-* How an API works, how to connect a frontend to a database through an API, and how to expose endpoints with distinct behaviors
-	+ How to test API endpoints with [Postman][Postman]
-* How to use a production database and apply CRUD operations via the API
-* How to secure a VPS - `ufw`, SSH configuration, etc.
-* How to serve all areas of the stack on a VPS
-	+ Serving the Flask API via [Gunicorn][Gunicorn]
-	+ Serving the React application via [NGINX][NGINX], which also acts as a reverse-proxy for the Flask API
-	+ Spin up a database instance
-
-## Additional Projects
-
-I learn a new language best by creating something with it. All of these projects are the result of my learning Python, Rust, or Go. I created these programs so that I could use them myself; I use these tools very frequently, if not daily. I put them on GitHub because I think others may benefit from them as well.
-
-### `The Struggle`
-
-<div style="padding-bottom: 5px; padding-top: 5px;">
-	<a href="https://github.com/JosephLai241/The-Struggle">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=The-Struggle&theme=tokyonight" />
-	</a>
-</div>
-
----
-
-`The-Struggle` is a command-line tool written in Rust that helps you keep track of your job applications. It is essentially a tool that makes modifying a spreadsheet easier.
-
-It performs the following CRUD operations on a locally-stored spreadsheet:
-
-* Add a new entry
-* Update an existing entry
-* Delete an existing entry
-* List all entries
-
-Additionally, there is an insight tool which will analyze application statistics such as:
-
-* The number of applications:
-	+ That are pending a response
-	+ That are currently underway
-	+ That you have received an offer for
-	+ That you have been hired for
-	+ That have rejected you
-* The ratio of each status to the overall number of tracked job applications.
-
-## `shift`
-
-<div style="padding-bottom: 5px; padding-top: 5px;">
-	<a href="https://github.com/JosephLai241/shift">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosephLai241&repo=shift&theme=tokyonight" />
-	</a>
-</div>
-
----
-
-`shift` is a command-line tool written in Go that helps contractors/remote workers keep track of their own working hours. This may also be used to keep track of time doing anything - I personally also use this to keep track of how much time I spend working on particular projects. This project is based on my friend Luke Schenk's original Python program [`clck`][clck].
-
-This program is very similar to `The-Struggle` except for a few differences:
-
-* It allows users to configure whether to save shift data to a timesheet or a SQLite instance
-* Users may check the current status of their shift (how much time has elapsed since clocking in).
-
 # What I'm Currently Working On
 
-URS is a project that I'm constantly maintaining. Otherwise I'm focused on refining my skills with Python, Rust, Go, and/or React.
+URS is a project that I'm constantly maintaining.
 
-I'm also in the process of creating another full-stack web application - my portfolio site.
-
-# Miscellaneous Information
-
-* 👯 I’m looking to collaborate on any of my projects, especially URS!
-* ⚡ Fun fact - I can solve a Rubik's Cube in less than 30 seconds 🥴
-
-# Additional Skills/Interests
-
-## Languages
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-## Frameworks
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-<a href="https://actix.rs/">
-  <img
-    alt="Actix Web"
-    height="80"
-    width="80"
-    src="https://avatars0.githubusercontent.com/u/32776943?s=400&v=4" />
-</a>
-
-## Continuous Integration
-
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+Since my job entails lots of programming in Python, I plan on writing a majority of my future personal projects in Rust. I think it's good to know an interpreted and a compiled language well; Rust fulfills the compiled language requirement that I set for myself.
 
 # GitHub Statistics
 
@@ -263,18 +168,22 @@ I'm also in the process of creating another full-stack web application - my port
 			<a>
 				<img 
 					align="center" 
-					src="https://github-readme-stats.vercel.app/api?username=JosephLai241&hide=contribs&show_icons=true&theme=tokyonight&count_private=true" />
+					src="https://github-readme-stats.vercel.app/api?username=JosephLai241&hide=contribs&show_icons=true&theme=gruvbox&count_private=true" />
 			</a>
 		</td>
 		<td>
 			<a>
 				<img 
 					align="center" 
-					src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLai241&theme=tokyonight&layout=compact&count_private=true" />
+					src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLai241&theme=gruvbox&layout=compact&count_private=true" />
 			</a>
 		</td>
 	</tr>
 </table>
+
+
+<!-- SITE LINKS -->
+[Bluestone Analytics]: https://www.bluestoneanalytics.com/
 
 <!-- SOCIAL LINKS -->
 [Gmail Link]: mailto:jlai24142@gmail.com
