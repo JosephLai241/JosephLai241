@@ -4,9 +4,28 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-My name is Joseph and I'm a self-taught software engineer from Michigan who is passionate about computer science. I am currently a software engineer at [Bluestone Analytics, a wholly-owned subsidiary of CACI International, Inc][Bluestone Analytics].
+My name is Joseph and I'm a self-taught software engineer from Michigan who is passionate about computer science. I am currently a software engineer at [Bluestone Analytics][Bluestone Analytics].
 
 I love developing in Rust and Python, and plan on implementing future projects in either (or both) languages!
+
+<table style="width:100%;">
+	<tr>
+		<td>
+			<a>
+				<img 
+					align="center" 
+					src="https://github-readme-stats.vercel.app/api?username=JosephLai241&hide=contribs&show_icons=true&theme=gruvbox&count_private=true" />
+			</a>
+		</td>
+		<td>
+			<a>
+				<img 
+					align="center" 
+					src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLai241&theme=gruvbox&layout=compact&count_private=true" />
+			</a>
+		</td>
+	</tr>
+</table>
 
 # Table of Contents
 
@@ -32,7 +51,6 @@ I love developing in Rust and Python, and plan on implementing future projects i
 	+ [Personal Blog](#personal-blog)
 		* [The Stack](#the-stack)
 * [What I'm Currently Working On](#what-im-currently-working-on)
-* [GitHub Statistics](#github-statistics)
 
 # Skills
 
@@ -159,27 +177,6 @@ I created a private blog implementing [React][ReactJS] for the frontend (plus [B
 URS is a project that I'm constantly maintaining.
 
 Since my job entails lots of programming in Python, I plan on writing a majority of my future personal projects in Rust. I think it's good to know an interpreted and a compiled language well; Rust fulfills the compiled language requirement that I set for myself.
-
-# GitHub Statistics
-
-<table style="width:100%;">
-	<tr>
-		<td>
-			<a>
-				<img 
-					align="center" 
-					src="https://github-readme-stats.vercel.app/api?username=JosephLai241&hide=contribs&show_icons=true&theme=gruvbox&count_private=true" />
-			</a>
-		</td>
-		<td>
-			<a>
-				<img 
-					align="center" 
-					src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLai241&theme=gruvbox&layout=compact&count_private=true" />
-			</a>
-		</td>
-	</tr>
-</table>
 
 
 <!-- SITE LINKS -->
