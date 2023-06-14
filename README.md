@@ -78,7 +78,9 @@ This is a list of areas that I'm currently skilled in.
 
 </details>
 
-# Ways to Contact Me
+
+<details>
+  <summary><h1>Ways to Contact Me</h1></summary>
 
 > **_Note_**: These badges are clickable!
 
@@ -94,6 +96,8 @@ This is a list of areas that I'm currently skilled in.
 ## On GitHub
 
 You can also directly ask me about anything in this `README`'s [Issues tab][issues].
+
+</details>
 
 <!-- SITE LINKS -->
 
