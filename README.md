@@ -57,10 +57,14 @@ This is a list of areas that I'm currently skilled in.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## Containerization
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 ## Continuous Integration
 
-![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
 ## Testing Tools
@@ -77,7 +81,6 @@ This is a list of areas that I'm currently skilled in.
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
 </details>
-
 
 <details>
   <summary><h1>Ways to Contact Me</h1></summary>
@@ -110,4 +113,3 @@ You can also directly ask me about anything in this `README`'s [Issues tab][issu
 [linkedin link]: https://linkedin.com/in/joseph-lai-86390a137
 [urs project]: mailto:urs_project@protonmail.com
 [issues]: https://github.com/JosephLai241/JosephLai241/issues
-
