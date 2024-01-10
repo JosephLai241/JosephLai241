@@ -4,7 +4,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-![Prettier Workflow Status](https://img.shields.io/github/actions/workflow/status/JosephLai241/JosephLai241/prettier.yml?style=for-the-badge&logo=prettier&label=Prettier)
+[![Prettier Workflow Status](https://img.shields.io/github/actions/workflow/status/JosephLai241/JosephLai241/prettier.yml?style=for-the-badge&logo=prettier&label=Prettier)][prettier workflow runs]
 
 My name is Joseph and I'm a self-taught software engineer based in Chicago who is passionate about computer science. I am currently a software engineer at [Bluestone Analytics][bluestone analytics].
 
@@ -113,5 +113,6 @@ You can also directly ask me about anything in this `README`'s [Issues tab][issu
 
 [gmail link]: mailto:jlai24142@gmail.com
 [linkedin link]: https://linkedin.com/in/joseph-lai-86390a137
+[prettier workflow runs]: https://github.com/JosephLai241/JosephLai241/actions/workflows/prettier.yml
 [urs project]: mailto:urs_project@protonmail.com
 [issues]: https://github.com/JosephLai241/JosephLai241/issues
