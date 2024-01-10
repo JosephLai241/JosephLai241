@@ -78,7 +78,6 @@ This is a list of areas that I'm currently skilled in.
 
 </details>
 
-
 <details>
   <summary><h1>Ways to Contact Me</h1></summary>
 
@@ -110,4 +109,3 @@ You can also directly ask me about anything in this `README`'s [Issues tab][issu
 [linkedin link]: https://linkedin.com/in/joseph-lai-86390a137
 [urs project]: mailto:urs_project@protonmail.com
 [issues]: https://github.com/JosephLai241/JosephLai241/issues
-
