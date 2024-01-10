@@ -4,6 +4,8 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
+![Prettier Workflow Status](https://img.shields.io/github/actions/workflow/status/JosephLai241/JosephLai241/prettier.yml?style=for-the-badge&logo=prettier&label=Prettier)
+
 My name is Joseph and I'm a self-taught software engineer based in Chicago who is passionate about computer science. I am currently a software engineer at [Bluestone Analytics][bluestone analytics].
 
 I love developing in Rust and Python, and plan on implementing future projects in either (or both) languages!
