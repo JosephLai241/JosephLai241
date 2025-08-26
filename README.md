@@ -1,4 +1,4 @@
-# 👉🏻 [josephlai.dev][josephlai.dev]
+# 👉🏻 [josephlai.dev]
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -6,9 +6,7 @@
 
 [![Prettier Workflow Status](https://img.shields.io/github/actions/workflow/status/JosephLai241/JosephLai241/prettier.yml?style=for-the-badge&logo=prettier&label=Prettier)][prettier workflow runs]
 
-My name is Joseph and I'm a self-taught software engineer based in Chicago who is passionate about computer science. I am currently a software engineer at [Bluestone Analytics][bluestone analytics].
-
-I love developing in Rust and Python, and plan on implementing future projects in either (or both) languages!
+My name is Joseph and I'm a self-taught software engineer based in Chicago who is passionate about computer science. I love developing in Rust and Python, and plan on implementing future projects in either (or both) languages!
 
 <table style="width:100%;">
 	<tr>
@@ -106,13 +104,11 @@ You can also directly ask me about anything in this `README`'s [Issues tab][issu
 
 <!-- SITE LINKS -->
 
-[bluestone analytics]: https://www.bluestoneanalytics.com/
-[josephlai.dev]: https://josephlai.dev/
-
 <!-- SOCIAL LINKS -->
 
 [gmail link]: mailto:jlai24142@gmail.com
+[issues]: https://github.com/JosephLai241/JosephLai241/issues
+[josephlai.dev]: https://josephlai.dev/
 [linkedin link]: https://linkedin.com/in/joseph-lai-86390a137
 [prettier workflow runs]: https://github.com/JosephLai241/JosephLai241/actions/workflows/prettier.yml
 [urs project]: mailto:urs_project@protonmail.com
-[issues]: https://github.com/JosephLai241/JosephLai241/issues
